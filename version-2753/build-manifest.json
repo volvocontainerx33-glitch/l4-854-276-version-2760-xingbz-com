@@ -1,0 +1,49 @@
+{
+    "siteTitle": "精选日韩视频-精选影片片单-高清视频在线播放",
+    "logo": "精选日韩视频",
+    "totalMovies": 2000,
+    "htmlPages": 2014,
+    "categories": [
+        {
+            "slug": "playlist-01",
+            "name": "精选片单"
+        },
+        {
+            "slug": "playlist-02",
+            "name": "热门片单"
+        },
+        {
+            "slug": "playlist-03",
+            "name": "高清片单"
+        },
+        {
+            "slug": "playlist-04",
+            "name": "新片片单"
+        },
+        {
+            "slug": "playlist-05",
+            "name": "口碑片单"
+        },
+        {
+            "slug": "playlist-06",
+            "name": "剧情片单"
+        },
+        {
+            "slug": "playlist-07",
+            "name": "影迷片单"
+        },
+        {
+            "slug": "playlist-08",
+            "name": "夜场片单"
+        },
+        {
+            "slug": "playlist-09",
+            "name": "周末片单"
+        },
+        {
+            "slug": "playlist-10",
+            "name": "宝藏片单"
+        }
+    ],
+    "coverRule": "第 N 条影片使用 X.jpg，X = ((N - 1) % 150) + 1。"
+}
